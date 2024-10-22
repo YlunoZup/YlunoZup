@@ -62,7 +62,11 @@
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
     <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; background-color: #f9f9f9;">
-        <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" />  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YlunoZup&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="180px" width="450px"/>
+
+       
   <div style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; width: 280px; background: linear-gradient(135deg, #f0f0f0, #d3d3d3); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <strong style="font-size: 18px; color: #333;">Currently Working On:</strong>
   <ul style="list-style: none; padding-left: 0; font-size: 14px; line-height: 1.6; color: #555;">
