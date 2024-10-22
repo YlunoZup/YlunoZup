@@ -64,7 +64,8 @@
     <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; background-color: #f9f9f9;">
         <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" />  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YlunoZup&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="180px" width="450px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YlunoZup&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="150px" width="350px"/>
+
 
        
   <div style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; width: 280px; background: linear-gradient(135deg, #f0f0f0, #d3d3d3); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
