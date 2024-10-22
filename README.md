@@ -58,5 +58,19 @@
     </a>
 </p>
 
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; background-color: #f9f9f9;">
+        <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" />
+  </div>
+    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 250px; background-color: #f9f9f9; margin-left: 20px;">
+        <strong>Currently Working On:</strong><br>
+        - Wi-Fi voucher system<br>
+        - Reverse engineering in Python<br>
+        - Portfolio website development<br>
+        - 5G LTE integration<br>
+        - Django web development
+    </div>
+</div>
 
-![Dev | Xruzen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark)
+
+
