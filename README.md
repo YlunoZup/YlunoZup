@@ -21,6 +21,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/546689007635922945)  
 </div>
 
+---
+
 - 👑 Language and Tools
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -61,16 +63,17 @@
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
     <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; background-color: #f9f9f9;">
         <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" />
-  </div>
-    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 250px; background-color: #f9f9f9; margin-left: 20px;">
-        <strong>Currently Working On:</strong><br>
-        - Wi-Fi voucher system<br>
-        - Reverse engineering in Python<br>
-        - Portfolio website development<br>
-        - 5G LTE integration<br>
-        - Django web development
-    </div>
+  <div style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; width: 280px; background: linear-gradient(135deg, #f0f0f0, #d3d3d3); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <strong style="font-size: 18px; color: #333;">Currently Working On:</strong>
+  <ul style="list-style: none; padding-left: 0; font-size: 14px; line-height: 1.6; color: #555;">
+    <li>⚡ Cloud voucher system</li>
+    <li>🔍 Reverse engineering</li>
+    <li>🌐 Portfolio website development</li>
+    <li>📶 5G LTE integration "VPN tunneling"</li>
+    <li>🖥️ Portal Web Development</li>
+  </ul>
 </div>
+
 
 
 
