@@ -60,11 +60,11 @@
     </a>
 </p>
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; background-color: #f9f9f9;">
-        <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" />  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YlunoZup&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="150px" width="350px"/>
+<a href="https://github.com/YlunoZup">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YlunoZup&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,0d1117,0a3069&theme=dark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlunoZup&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=0,0a3069,002b5b&theme=dark" />
+</a>
 
 
        
