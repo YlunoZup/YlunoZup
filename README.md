@@ -61,18 +61,9 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <!-- GitHub Stats Section -->
     <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" style="width: 48%;" />
-    <!-- Most Used Languages Section -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YlunoZup&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" style="width: 48%;" />
 </div>
-
-<!-- Additional Content for the Description and Labels -->
-<div style="margin-top: 20px; color: #ffffff;">
-    <h3>Dev | Xruzen's
-
-
-
        
   <div style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; width: 280px; background: linear-gradient(135deg, #f0f0f0, #d3d3d3); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <strong style="font-size: 18px; color: #333;">Currently Working On:</strong>
