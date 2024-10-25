@@ -64,17 +64,25 @@
     <img src="https://github-readme-stats.vercel.app/api?username=YlunoZup&show_icons=true&hide_border=true&theme=dark" style="width: 48%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YlunoZup&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" style="width: 43%;" />
 </div>
-       
-  <div style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; width: 280px; background: linear-gradient(135deg, #f0f0f0, #d3d3d3); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <strong style="font-size: 18px; color: #333;">Currently Working On:</strong>
-  <ul style="list-style: none; padding-left: 0; font-size: 14px; line-height: 1.6; color: #555;">
-    <li>⚡ Cloud voucher system</li>
-    <li>🔍 Reverse engineering</li>
-    <li>🌐 Portfolio website development</li>
-    <li>📶 5G LTE integration "VPN tunneling"</li>
-    <li>🖥️ Portal Web Development</li>
-  </ul>
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: 200px; background: linear-gradient(135deg, #f0f0f0, #d3d3d3); box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <strong style="font-size: 16px; color: #333;">Currently Working On:</strong>
+    <ul style="list-style: none; padding-left: 0; font-size: 12px; line-height: 1.4; color: #555;">
+      <li>⚡ Cloud voucher system</li>
+      <li>🔍 Reverse engineering</li>
+      <li>🌐 Portfolio website</li>
+      <li>📶 5G LTE VPN</li>
+      <li>🖥️ Portal Dev</li>
+    </ul>
+  </div>
+  <div style="flex-shrink: 0;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=YlunoZup&theme=tokyonight-duo&card_width=300&card_height=170&hide_total_contributions=true" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
+
 
 
 
