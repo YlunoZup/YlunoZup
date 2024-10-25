@@ -78,7 +78,7 @@
   </div>
   <div style="flex-shrink: 0;">
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=YlunoZup&theme=tokyonight-duo&card_width=300&card_height=170&hide_total_contributions=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=YlunoZup&theme=tokyonight-duo&card_width=340&card_height=180&hide_total_contributions=true" alt="GitHub Streak" />
     </a>
   </div>
 </div>
