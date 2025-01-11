@@ -73,7 +73,7 @@
       <li>🌐 Web Development</li>
       <li>🔍 API (Paymongo)</li>
       <li>📶 5G LTE VPN</li>
-      <li>🖥️ School projects</li>
+      <li>🖥️ Personal Projects</li>
     </ul>
   </div>
   <div style="flex-shrink: 0;">
