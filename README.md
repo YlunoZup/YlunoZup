@@ -73,7 +73,7 @@
       <li>🌐 Web Development</li>
       <li>🔍 API (Paymongo)</li>
       <li>📶 5G LTE VPN</li>
-      <li>🖥️ So need of time management </li>
+      <li>🖥️ So need ng time management </li>
     </ul>
   </div>
   <div style="flex-shrink: 0;">
