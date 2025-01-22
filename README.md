@@ -73,7 +73,7 @@
       <li>🌐 Web Development</li>
       <li>🔍 API (Paymongo)</li>
       <li>📶 5G LTE VPN</li>
-      <li>🖥️ Tinamad nmn ning styla</li>
+      <li>🖥️ Ang cravings naten ngaun ayh zx25r</li>
     </ul>
   </div>
   <div style="flex-shrink: 0;">
