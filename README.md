@@ -73,7 +73,7 @@
       <li>🌐 Web Development</li>
       <li>🔍 API (Paymongo)</li>
       <li>📶 5G LTE VPN</li>
-      <li>🖥️ Gi tamad ang person</li>
+      <li>🖥️ sheeet lezgoo</li>
     </ul>
   </div>
   <div style="flex-shrink: 0;">
